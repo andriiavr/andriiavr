@@ -1,1 +1,1 @@
-[![My portfolio](./assets/)](https://andrii-avramenko.github.io/)
+[![My portfolio](./assets/)](https://andriiavr.github.io/)
