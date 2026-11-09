@@ -3,8 +3,16 @@
 ## Andrii Avramenko
 Click on the banner above or [this link](https://andriiavr.github.io/) to see my web portfolio
 
-**My Recent Activity:**
+**My Activity:**
 
-<!--START_SECTION:activity-->
-<!-- Your activity will be automatically inserted here -->
-<!--END_SECTION:activity-->
+<div align="center">
+
+![andriiavr's GitHub stats](https://githubstatss.vercel.app/api/card/stats?username=andriiavr&theme=dracula)
+
+</div>
+
+<div align="center">
+
+<sub>✨ Generated with <a href="https://githubstatss.vercel.app/readme">GitHubStats</a></sub>
+
+</div>
