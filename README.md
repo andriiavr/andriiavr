@@ -1,1 +1,4 @@
-[![My portfolio](./assets/)](https://andriiavr.github.io/)
+[![My portfolio](./assets/banner.gif)](https://andriiavr.github.io/)
+
+## Andrii Avramenko
+Click on the banner above or [this link](https://andriiavr.github.io/) to see my web portfolio
